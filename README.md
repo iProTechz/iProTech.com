@@ -1,4 +1,3 @@
-# Buy or Sell Your moblie here
 
 # Mobile Shop
 
