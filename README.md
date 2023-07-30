@@ -1,10 +1,18 @@
 # Mobile Shop Website
 
-This is a static website for a mobile shop, built using HTML, CSS, JS, Bootstrap, and JQuery. The website consists of a single page that showcases the shop's products and allows users to browse and purchase mobile phones.
+This is a static website for a mobile shop, built using HTML, CSS, JS, Bootstrap, Javascript, and JQuery. The website consists of a single page that showcases the shop's products and allows users to browse and purchase mobile phones.
 
 ## Demo
 
 Check out the [live demo](https://alaa-abdallah1.github.io/mobile-shop) of the website
+
+## Screenshots
+
+![image](https://github.com/alaa-abdallah1/mobile-shop/assets/56931924/550ae443-3251-4114-8571-612809c7a05b)
+
+![image](https://github.com/alaa-abdallah1/mobile-shop/assets/56931924/47751e2c-3559-4824-b5ae-1526d612da92)
+
+
 
 ## Features
 
